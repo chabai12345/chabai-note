@@ -100,4 +100,8 @@ detective-board/
 ├── start.bat            # 一键启动
 ├── build.bat            # 打包脚本
 └── README.md
+
+---
+
+**GitHub**: https://github.com/chabai12345/chabai-Clue-Wall
 ```
